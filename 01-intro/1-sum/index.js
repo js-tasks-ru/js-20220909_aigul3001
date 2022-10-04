@@ -3,7 +3,7 @@
  *
  * @param {number} m first number
  * @param {number} n second number
- * @returns {number}
+ * @returns {number} 
  */
 export const sum = (m, n) => {
   return (Number(m) + Number(n));
